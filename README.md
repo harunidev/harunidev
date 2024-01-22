@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harunidev
-- 👀 I’m interested in Database Analysis Right Now.
+- 👀 I’m interested in Database Engineering Right Now.
 - 🌱 I’m currently learning SQL-Oracle.
 - 💞️ I’m looking to collaborate on database projects.
 - 📫 How to reach me harunisikd@gmail.com.
