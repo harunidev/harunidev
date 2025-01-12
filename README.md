@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @harunidev
-- 👀 I’m interested in Database Engineering Right Now.
-- 🌱 I’m currently learning JAVA.
-- 💞️ I’m looking to collaborate on database projects.
+- 👀 I want to be a Java Developer right now.
+- 🌱 I’m currently developing on Java.
+- 💞️ I’m looking to collaborate on java/database projects.
 - 📫 How to reach me harunisikd@gmail.com.
-- 💬 You Can Ask me about C,C++,Python,SQL and HTML-CSS-JS.
+- 💬 You Can Ask me about Java,C,C++,Python,MySQL-MSSQL, C#(asp.net mvc5) and HTML-CSS-JS.
 
 
