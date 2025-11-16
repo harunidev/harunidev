@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harun</h1>
 <h3 align="center">I am an enthusiastic and dedicated candidate eager to contribute as a RPA Developer and Backend Engineer with a strong foundation in programming and a passion for automation, I am excited about the opportunity to join your innovative team. I am committed to leveraging my skills to enhance operational efficiency and support backend processes, while continuously learning and growing within a dynamic environment. Together, we can drive impactful solutions and achieve remarkable results.</h3>
 
-- 🔭 I’m currently working on **Backend and RPA Technologies.**
-- 🌱 I’m currently learning **Dockerized backend deployment, event-driven architecture, and hybrid RPA orchestration frameworks.**
-- 👯 I’m looking to collaborate on **Backend microservice projects and large-scale automation infrastructures that combine RPA and API-driven data flow.**
-- 🤝 I’m looking for help with **Optimizing AI-assisted automation and integrating RPA processes with backend REST architectures.**
+- 🔭 I'm currently working on **Backend and RPA Technologies.**
+- 🌱 I'm currently learning **Dockerized backend deployment, event-driven architecture, and hybrid RPA orchestration frameworks.**
+- 👯 I'm looking to collaborate on **Backend microservice projects and large-scale automation infrastructures that combine RPA and API-driven data flow.**
+- 🤝 I'm looking for help with **Optimizing AI-assisted automation and integrating RPA processes with backend REST architectures.**
 - 💬 Ask me about **RPA workflow design, SAP integrations, database optimization, API development, and enterprise automation.**
 - 📫 How to reach me **harunisikd@gmail.com**
 
