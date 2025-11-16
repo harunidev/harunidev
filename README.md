@@ -57,31 +57,26 @@
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harunidev&show_icons=true&theme=dark_violet&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harunidev&show_icons=true&theme=dark_violet&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunidev&theme=dark_violet&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunidev&theme=dark_violet&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harunidev&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harunidev&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" />
 </p>
 
 ---
 
 <h3 align="center">📈 3D Contribution Graph</h3>
 
-<div align="center">
-
-![3D Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harunidev&theme=react-dark&hide_border=true&area=true&color=9d4edd&line=9d4edd&point=ffffff&bg_color=0d1117)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harunidev&theme=react-dark&hide_border=true&area=true&color=9d4edd&line=9d4edd&point=ffffff&bg_color=0d1117" />
+</p>
 
 ---
 
 <h3 align="center">🐍 Snake Animation</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harunidev/harunidev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/harunidev/harunidev/output/github-contribution-grid-snake.svg" />
 </p>
