@@ -2,10 +2,15 @@
 <h3 align="center">I am an enthusiastic and dedicated candidate eager to contribute as a RPA Developer and Backend Engineer with a strong foundation in programming and a passion for automation, I am excited about the opportunity to join your innovative team. I am committed to leveraging my skills to enhance operational efficiency and support backend processes, while continuously learning and growing within a dynamic environment. Together, we can drive impactful solutions and achieve remarkable results.</h3>
 
 - 🔭 I'm currently working on **Backend and RPA Technologies.**
+
 - 🌱 I'm currently learning **Dockerized backend deployment, event-driven architecture, and hybrid RPA orchestration frameworks.**
+
 - 👯 I'm looking to collaborate on **Backend microservice projects and large-scale automation infrastructures that combine RPA and API-driven data flow.**
+
 - 🤝 I'm looking for help with **Optimizing AI-assisted automation and integrating RPA processes with backend REST architectures.**
+
 - 💬 Ask me about **RPA workflow design, SAP integrations, database optimization, API development, and enterprise automation.**
+
 - 📫 How to reach me **harunisikd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -54,29 +59,17 @@
 
 ---
 
-<h3 align="center">📊 GitHub Statistics</h3>
+<h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harunidev&show_icons=true&theme=dark_violet&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunidev&theme=dark_violet&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harunidev&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harunidev&theme=blue-green&hide_border=true&area=true&color=3b82f6&line=60a5fa&point=93c5fd&bg_color=0d1117" />
 </p>
 
 ---
 
-<h3 align="center">📈 3D Contribution Graph</h3>
+<h3 align="center">📅 Monthly Contribution</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harunidev&theme=react-dark&hide_border=true&area=true&color=9d4edd&line=9d4edd&point=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harunidev&theme=blue-green&hide_border=true&area=true&color=3b82f6&line=60a5fa&point=93c5fd&bg_color=0d1117&custom_title=Monthly%20Contributions&period=monthly" />
 </p>
 
----
-
-<h3 align="center">🐍 Snake Animation</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harunidev/harunidev/output/github-contribution-grid-snake.svg" />
-</p>
