@@ -67,9 +67,9 @@
 
 ---
 
-<h3 align="center">📅 Monthly Contribution</h3>
+<h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harunidev&theme=blue-green&hide_border=true&area=true&color=3b82f6&line=60a5fa&point=93c5fd&bg_color=0d1117&custom_title=Monthly%20Contributions&period=monthly" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harunidev&show_icons=true&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunidev&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-
