@@ -56,15 +56,17 @@
 
 <h3 align="center">📊 GitHub Statistics</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harunidev&show_icons=true&theme=dark_violet&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harunidev&show_icons=true&theme=dark_violet&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunidev&theme=dark_violet&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harunidev&theme=dark_violet&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=harunidev&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harunidev&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophy" />
+</p>
 
 ---
 
@@ -72,7 +74,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harunidev&theme=react-dark&hide_border=true&area=true&color=9d4edd&line=9d4edd&point=ffffff&bg_color=0d1117" alt="3D Contribution Graph" />
+![3D Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harunidev&theme=react-dark&hide_border=true&area=true&color=9d4edd&line=9d4edd&point=ffffff&bg_color=0d1117)
 
 </div>
 
@@ -80,8 +82,6 @@
 
 <h3 align="center">🐍 Snake Animation</h3>
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/harunidev/harunidev/output/github-contribution-grid-snake.svg)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harunidev/harunidev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
