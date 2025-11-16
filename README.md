@@ -58,11 +58,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harunidev&show_icons=true&theme=dark_violet&hide_border=false&include_all_commits=true&count_private=true&bg_color=1a0a2e&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harunidev&show_icons=true&theme=dark_violet&hide_border=false&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunidev&theme=dark_violet&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=1a0a2e&title_color=9d4edd&text_color=ffffff" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harunidev&theme=dark_violet&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github-profile-trophy.vercel.app/?username=harunidev&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophy" />
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=harunidev&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7)
 
 </div>
 
@@ -82,6 +82,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/harunidev/harunidev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/harunidev/harunidev/output/github-contribution-grid-snake.svg)
 
 </div>
