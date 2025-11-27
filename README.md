@@ -70,6 +70,5 @@
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harunidev&show_icons=true&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunidev&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
