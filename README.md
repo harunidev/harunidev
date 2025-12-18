@@ -54,9 +54,6 @@
   <a href="https://n8n.io" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="N8N" width="40" height="40"/>
   </a>
-  <a href="https://www.uipath.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/uipath/uipath-icon.svg" alt="UiPath" width="40" height="40"/>
-  </a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   </a>
@@ -128,20 +125,6 @@
 </p>
 
 ---
-
-<h3 align="center">📈 GitHub Stats</h3>
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=harunidev&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=harunidev&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats"
-  />
-</p>
 
 ---
 
