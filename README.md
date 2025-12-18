@@ -59,11 +59,19 @@
 
 ---
 
-<h3 align="center">📈 Contribution Graph</h3>
+---
+
+<h3 align="center">📊 Most Used Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harunidev&theme=blue-green&hide_border=true&area=true&color=3b82f6&line=60a5fa&point=93c5fd&bg_color=0d1117" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunidev&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages"
+  />
 </p>
+
+---
+
 
 ---
 
