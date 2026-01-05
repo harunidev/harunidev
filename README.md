@@ -118,12 +118,14 @@
 </p>
 
 ---
+<h3 align="center">📊 Most Used Languages</h3>
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunidev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunidev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800"
     alt="Top Languages"
   />
 </p>
+
 
 
 ---
