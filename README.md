@@ -116,19 +116,4 @@
 </p>
 
 
----
 
-<h3 align="center">📊 GitHub Statistics & Activity</h3>
-
-<p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harunidev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
----
-
-<h3 align="center">💬 Philosophy</h3>
-<p align="center">
-  <b>"I build systems that produce, prove, and continuously improve real value."</b>
-</p>
