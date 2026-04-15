@@ -1,119 +1,245 @@
-<h1 align="center">Hi 👋, I'm Harun</h1>
-<h3 align="center">I am an enthusiastic and dedicated candidate eager to contribute as a RPA Developer and Backend Engineer with a strong foundation in programming and a passion for automation, I am excited about the opportunity to join your innovative team. I am committed to leveraging my skills to enhance operational efficiency and support backend processes, while continuously learning and growing within a dynamic environment. Together, we can drive impactful solutions and achieve remarkable results.</h3>
+<div align="center">
 
-- 🔭 I'm currently working on **Backend and RPA Technologies.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=E6EDF3&center=true&vCenter=true&width=700&lines=Harun+I%C5%9F%C4%B1k;Backend+Engineer;RPA+%26+Automation+Specialist;Enterprise+Solutions+Architect" alt="Typing SVG"/>
 
-- 🌱 I'm currently learning **Dockerized backend deployment, event-driven architecture, and hybrid RPA orchestration frameworks.**
+<br/>
+<br/>
 
-- 👯 I'm looking to collaborate on **Backend microservice projects and large-scale automation infrastructures that combine RPA and API-driven data flow.**
+<img src="https://img.shields.io/badge/STATUS-Available_for_Opportunities-238636?style=for-the-badge&labelColor=0d1117" alt="Status"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-Backend_%26_Automation-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Focus"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-Turkey-e3b341?style=for-the-badge&labelColor=0d1117" alt="Location"/>
 
-- 🤝 I'm looking for help with **Optimizing AI-assisted automation and integrating RPA processes with backend REST architectures.**
+</div>
 
-- 💬 Ask me about **RPA workflow design, SAP integrations, database optimization, API development, and enterprise automation.**
+<br/>
 
-- 📫 How to reach me **harunisikd@gmail.com**
+---
+
+<br/>
+
+## `>_ ABOUT`
+
+```yaml
+name:       Harun Işık
+role:       Backend Engineer & RPA Specialist
+expertise:
+  - Enterprise Backend Architecture (C# / .NET / Java / Spring Boot)
+  - RPA Workflow Design & SAP Integrations
+  - Event-Driven Systems & Microservices
+  - Database Optimization (MSSQL, PostgreSQL, MongoDB)
+  - Dockerized Deployment & API Development
+currently:
+  building:  Backend & RPA technologies
+  learning:  Event-driven architecture, hybrid RPA orchestration
+  open_to:   Backend microservice projects & large-scale automation
+contact:    harunisikd@gmail.com
+```
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harunisik001/" target="_blank">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-       alt="harunisik001" 
-       height="30" 
-       width="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-harunisik001-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="mailto:harunisikd@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-harunisikd@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</p>
 
-
+<br/>
 
 ---
 
-<h3 align="center">🛠️ Tech Stack Overview</h3>
+<br/>
 
-<!-- Core Backend -->
+## `>_ TECH ARCHITECTURE`
+
+<br/>
+
+### ◈ Backend & API Engineering
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="44" height="44"/><br/>
+<sub><b>C#</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="44" height="44"/><br/>
+<sub><b>.NET</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="44" height="44"/><br/>
+<sub><b>Java</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44" height="44"/><br/>
+<sub><b>Python</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="44" height="44"/><br/>
+<sub><b>Spring Boot</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ◈ RPA & Workflow Automation
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="44" height="44"/><br/>
+<sub><b>n8n</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="44" height="44"/><br/>
+<sub><b>Grafana</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ◈ Data Layer
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="44" height="44"/><br/>
+<sub><b>SQL Server</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="44" height="44"/><br/>
+<sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="44" height="44"/><br/>
+<sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="44" height="44"/><br/>
+<sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="44" height="44"/><br/>
+<sub><b>Pandas</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ◈ DevOps & Toolchain
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="44" height="44"/><br/>
+<sub><b>Docker</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="44" height="44"/><br/>
+<sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="44" height="44"/><br/>
+<sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="44" height="44"/><br/>
+<sub><b>Postman</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ◈ Frontend & Mobile
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="44" height="44"/><br/>
+<sub><b>React</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="44" height="44"/><br/>
+<sub><b>Tailwind</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="44" height="44"/><br/>
+<sub><b>Flutter</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="44" height="44"/><br/>
+<sub><b>Dart</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="44" height="44"/><br/>
+<sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="44" height="44"/><br/>
+<sub><b>CSS3</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## `>_ GITHUB METRICS`
+
+<br/>
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=harunisik001&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&ring_color=238636" width="100%" alt="GitHub Stats"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunisik001&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" width="100%" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harunisik001&bg_color=0d1117&color=8b949e&line=238636&point=58a6ff&area=true&area_color=238636&hide_border=true" width="100%" alt="Activity Graph"/>
+
+<br/>
+
+---
+
+<br/>
+
+## `>_ EXPERTISE MATRIX`
+
+<br/>
+
+```
+Backend Engineering     ████████████████████  Expert
+RPA & Automation        ██████████████████░░  Advanced
+Database Architecture   █████████████████░░░  Advanced
+API Design & REST       ████████████████████  Expert
+System Integration      ██████████████████░░  Advanced
+DevOps & Containers     ████████████░░░░░░░░  Intermediate
+Frontend (React/Flutter)████████████░░░░░░░░  Intermediate
+```
+
+<br/>
+
+---
+
 <p align="center">
-  <strong>Backend & APIs</strong><br/>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=harunisik001&style=flat-square&color=238636&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
-
-<!-- RPA & Automation -->
-<p align="center">
-  <strong>RPA & Automation</strong><br/>
-  <a href="https://n8n.io" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="N8N" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- Databases -->
-<p align="center">
-  <strong>Databases</strong><br/>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- DevOps & Tools -->
-<p align="center">
-  <strong>DevOps, Tools & Frontend</strong><br/>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-</p>
-
-
 
