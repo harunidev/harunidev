@@ -59,187 +59,25 @@ contact:    harunisikd@gmail.com
 
 <br/>
 
-### ◈ Backend & API Engineering
+**◈ Backend & APIs**
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="44" height="44"/><br/>
-<sub><b>C#</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="44" height="44"/><br/>
-<sub><b>.NET</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="44" height="44"/><br/>
-<sub><b>Java</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44" height="44"/><br/>
-<sub><b>Python</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="44" height="44"/><br/>
-<sub><b>Spring Boot</b></sub>
-</td>
-</tr>
-</table>
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+**◈ RPA & Automation**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**◈ Databases**
+
+![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**◈ DevOps & Toolchain**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**◈ Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 <br/>
-
-### ◈ RPA & Workflow Automation
-
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="44" height="44"/><br/>
-<sub><b>n8n</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="44" height="44"/><br/>
-<sub><b>Grafana</b></sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-### ◈ Data Layer
-
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="44" height="44"/><br/>
-<sub><b>SQL Server</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="44" height="44"/><br/>
-<sub><b>PostgreSQL</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="44" height="44"/><br/>
-<sub><b>MySQL</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="44" height="44"/><br/>
-<sub><b>MongoDB</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="44" height="44"/><br/>
-<sub><b>Pandas</b></sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-### ◈ DevOps & Toolchain
-
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="44" height="44"/><br/>
-<sub><b>Docker</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="44" height="44"/><br/>
-<sub><b>Git</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="44" height="44"/><br/>
-<sub><b>GitHub</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="44" height="44"/><br/>
-<sub><b>Postman</b></sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-### ◈ Frontend & Mobile
-
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="44" height="44"/><br/>
-<sub><b>React</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="44" height="44"/><br/>
-<sub><b>Tailwind</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="44" height="44"/><br/>
-<sub><b>Flutter</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="44" height="44"/><br/>
-<sub><b>Dart</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="44" height="44"/><br/>
-<sub><b>HTML5</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="44" height="44"/><br/>
-<sub><b>CSS3</b></sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-## `>_ GITHUB METRICS`
-
-<br/>
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=harunisik001&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&ring_color=238636" width="100%" alt="GitHub Stats"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunisik001&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" width="100%" alt="Top Languages"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harunisik001&bg_color=0d1117&color=8b949e&line=238636&point=58a6ff&area=true&area_color=238636&hide_border=true" width="100%" alt="Activity Graph"/>
-
-<br/>
-
----
-
-<br/>
-
-## `>_ EXPERTISE MATRIX`
-
-<br/>
-
-```
-Backend Engineering     ████████████████████  Expert
-RPA & Automation        ██████████████████░░  Advanced
-Database Architecture   █████████████████░░░  Advanced
-API Design & REST       ████████████████████  Expert
-System Integration      ██████████████████░░  Advanced
-DevOps & Containers     ████████████░░░░░░░░  Intermediate
-Frontend (React/Flutter)████████████░░░░░░░░  Intermediate
-```
-
-<br/>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=harunisik001&style=flat-square&color=238636&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
 
